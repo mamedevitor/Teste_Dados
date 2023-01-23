@@ -1,8 +1,16 @@
-# Cartão de Crédito - Taxas de Juros e Inadimplência
-Extração de dados através de API do Banco Central e Análise dos dados referente a:
+# Dados sobre as Carteiras de Créditos - Taxas, Inadimplência, Saldos, e mais comparativos.
+Extração de dados através da Lib e relatórios divulgados do Banco Central para Análise dos dados referente a:
 <br>
-* Taxa média de juros das operações de crédito com recursos livres
-* Inadimplência da carteira de crédito com recursos livres
+* Taxa de juros das operações de crédito entre PJ e PF.
+* Inadimplência da carteira de crédito entre PJ e PF.
+* Concessões de crédito para tomadores PJ e PF.
+* Spread das operações de crédito entre tomadores PJ e PF
+* Analisando os principais players da linha de Financimentos.
+* Analisando as Receitas Operacionais dos Bancos.
+* Agrupando o % de Carteira de Crédito entre PF e PJ dos Bancos.
+* Prevendo o saldo da Carteira de Crédito para os próximos 2 anos.
+* Classificando a carteira de crédito dos Bancos por Região.
+
 <br>
 Fonte de dados:
 <br>
@@ -11,14 +19,17 @@ Fonte de dados:
 <br>
 
 [Sobre o Portal do Banco Central](https://dadosabertos.bcb.gov.br/pages/sobre-o-portal)
+
+[Banco Central - IF Data](https://www3.bcb.gov.br/ifdata/#!)
+
 <br>
 <br>
-<b>Modulos utilizados:</b> Numpy, Pandas, Matplotlib, Seaborn Requests, BeautifulSoup, json.
+<b>Modulos utilizados:</b> Numpy, Pandas, Matplotlib, Seaborn, Pycaret, BCB.
 <br>
 <br>
 <b>Passo a passo:</b>  
 <br>
-**API Banco Central**
+**LIB Banco Central e Relatórios abertos**
 <br>
 <b>Tarefa 1:</b> Identificação de Dados.
 <br>
@@ -30,7 +41,7 @@ Fonte de dados:
 <br>
 <br>
 
-<b>Jupyter Notebook:</b> [Cartão de Crédito - Taxas de Juros e Inadimplência](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/Taxa_M%C3%A9dia_de_Juros_das_Operac%C3%B5es_de_Cr%C3%A9dito.ipynb)
+<b>Notebook:</b> [Cartão de Crédito - Taxas de Juros e Inadimplência](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/Taxa_M%C3%A9dia_de_Juros_das_Operac%C3%B5es_de_Cr%C3%A9dito.ipynb)
 <br>
 <b>LinkedIn:</b> [Oscar Monteiro](https://www.linkedin.com/in/oscarmonteiro98)
 <br>
