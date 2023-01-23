@@ -84,7 +84,7 @@ Com os insights dos gráficos acima, podemos ver que a maioria das concessões d
 <br>
 <br>
  
-# Banco especialistas em Finaciamentos
+# Banco especialistas em Financiamentos
 Podemos notar que nessa amostra 3 meses do ano de 2022, o saldo da carteira de crédito de Financiamentos do BV, está em R$23Bi, disparado dos outros grandes players do Mercado de Crédito.
   
 ![image](https://user-images.githubusercontent.com/83721127/214063865-c913d995-bba0-4c88-b738-df2969229298.png)
@@ -112,7 +112,7 @@ Podemos notar que o Banco Itaú e o Banco Bradesco, são os que mais diversifica
 <br>
 <br>
 Podemos ver também, que o principais Bancos com as carteiras em grande maioria de Pessoa Física, é a Caixa, Banco do Brasil e Santander.
-E em maioria de carteira com Pessoa Júridica, "desconsiderando" o BNDES, vemos o Safra e o BTG com grande maoria de carteira em PJ.
+E em maioria de carteira com Pessoa Júridica, "desconsiderando" o BNDES, vemos o Safra e o BTG com grande maioria de carteira em PJ.
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/83721127/214068084-fceb7a67-0d78-4ba3-a637-244c4752ccad.png)
